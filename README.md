@@ -41,7 +41,7 @@
 
 ### Stats
 
-[![hexxone's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexxone)](https://github.com/anuraghazra/github-readme-stats)
+[![hexxone's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexxone&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://hexx.one
