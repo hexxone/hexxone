@@ -1,12 +1,6 @@
-﻿## Hi there, my Name is [hexxone][website] aka Dominic T.
+﻿## Hi there, my name is [hexxone][website] aka Dominic T.
 
-## I'm a Student and Developer...
-- completed a 3y school diploma as 'information technology assistant'
-- worked as 'Full-Stack' java programmer for some time
-- like learning about 'new' technologies by using them :P
-
-
-### Where to find me:
+### Where to find me
 
 [<img align="left" alt="hexx.one" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hexxone | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
@@ -15,10 +9,7 @@
 
 <br />
 
----
-
-
-### Most used languages:
+### Languages
 
 [<img align="left" alt="JavaScript" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />](https://www.javascript.com/)
 [<img align="left" alt="TypeScript" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" />](https://www.typescriptlang.org/)
@@ -33,12 +24,12 @@
 
 <br />
 
-### Most used tools:
+### Tools
 
 [<img align="left" alt="Docker" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />](https://www.docker.com/)
 [<img align="left" alt="VS Code" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />](https://code.visualstudio.com/)
-[<img align="left" alt="Git" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="Visual Studio" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />](https://visualstudio.microsoft.com/de/)
+[<img align="left" alt="Git" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="Eclipse" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />](https://www.eclipse.org/)
 [<img align="left" alt="PHPStorm" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/phpstorm.svg" />](https://www.jetbrains.com/phpstorm/)
 [<img align="left" alt="Unity" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />](https://unity.com/)
@@ -48,7 +39,7 @@
 
 ---
 
-### GitHub Stats
+### Stats
 
 [![hexxone's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexxone)](https://github.com/anuraghazra/github-readme-stats)
 
