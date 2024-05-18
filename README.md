@@ -1,6 +1,11 @@
-﻿## Hi there, my name is [hexxone][website] aka Dominic T.
+﻿## [hexxone][website] 
+ 
+_aka. Dominic T aka. Dome_
 
-### Where to find me
+I am just a guy trying to improve his development experience, understand new technologies,
+have fun while over-engineering, and ultimately build somewhat useful things.
+
+### Socials
 
 [<img align="left" alt="hexx.one" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hexxone | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
@@ -9,22 +14,7 @@
 
 <br />
 
-### Languages
-
-[<img align="left" alt="JavaScript" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />](https://www.javascript.com/)
-[<img align="left" alt="TypeScript" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" />](https://www.typescriptlang.org/)
-[<img align="left" alt="HTML5" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />](https://html.spec.whatwg.org/)
-[<img align="left" alt="CSS3" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />](https://www.w3schools.com/cssref/default.asp)
-[<img align="left" alt="Node.js" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />](https://nodejs.org/)
-[<img align="left" alt="PL SQL" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />](https://www.mysql.com/)
-[<img align="left" alt="C#" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img align="left" alt="Java" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />](https://www.java.com/)
-[<img align="left" alt="PHP" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />](https://www.php.net/)
-[<img align="left" alt="Python" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />](https://www.python.org/)
-
-<br />
-
-### Tools
+### Favourite tools
 
 [<img align="left" alt="Docker" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />](https://www.docker.com/)
 [<img align="left" alt="VS Code" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />](https://code.visualstudio.com/)
@@ -39,10 +29,14 @@
 
 ---
 
-### Stats
+<a href="https://github.com/hexxone">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hexxone&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/hexxone">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hexxone&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
-[![hexxone's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexxone&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<br />
 
 [website]: https://hexx.one
 [youtube]: https://www.youtube.com/Hexxonite
