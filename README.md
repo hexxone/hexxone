@@ -1,6 +1,6 @@
-﻿## [hexxone][website] 
+﻿## [hexx.one][website] 
  
-_aka. Dominic T aka. Dome_
+_aka. Dome_
 
 I am just a guy trying to improve his development experience, understand new technologies,
 have fun while over-engineering, and ultimately build somewhat useful things.
