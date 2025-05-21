@@ -1,4 +1,4 @@
-﻿## [hexx.one][website] 
+## [hexx.one][website] 
  
 _aka. Dome_
 
@@ -7,25 +7,49 @@ have fun while over-engineering, and ultimately build somewhat useful things.
 
 ### Socials
 
-[<img align="left" alt="hexx.one" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="hexxone | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
-[<img align="left" alt="hexxone | Steam" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
-[<img align="left" alt="hexxone | Twitch" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitch.svg" />][twitch]
+<!-- 
+  Using simple-icons CDN with both COLOUR and DARK_COLOUR for dark/light theme compatibility.
+  [ICON SLUG] and colors are matched from simple-icons package. 
+-->
 
-<br />
+<a href="https://hexx.one">
+  <img align="left" alt="hexx.one" width="32" height="32" src="https://cdn.simpleicons.org/internetcomputer/333/fff?viewbox=auto" />
+</a>
+<a href="https://www.youtube.com/Hexxonite">
+  <img align="left" alt="YouTube" width="32" height="32" src="https://cdn.simpleicons.org/youtube/FF0000/fff?viewbox=auto" />
+</a>
+<a href="https://steamcommunity.com/id/hexxone/">
+  <img align="left" alt="Steam" width="32" height="32" src="https://cdn.simpleicons.org/steam/171A21/fff?viewbox=auto" />
+</a>
+<a href="https://www.twitch.tv/hexx_one">
+  <img align="left" alt="Twitch" width="32" height="32" src="https://cdn.simpleicons.org/twitch/9146FF/fff?viewbox=auto" />
+</a>
+
+<br/>
 
 ### Favourite tools
 
-[<img align="left" alt="Docker" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />](https://www.docker.com/)
-[<img align="left" alt="VS Code" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />](https://code.visualstudio.com/)
-[<img align="left" alt="Visual Studio" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />](https://visualstudio.microsoft.com/de/)
-[<img align="left" alt="Git" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />](https://git-scm.com/)
-[<img align="left" alt="Eclipse" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />](https://www.eclipse.org/)
-[<img align="left" alt="PHPStorm" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/phpstorm.svg" />](https://www.jetbrains.com/phpstorm/)
-[<img align="left" alt="Unity" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />](https://unity.com/)
+<a href="https://www.apple.com/de/macos">
+  <img align="left" alt="Mac OS (f-c-k-m-i-c-r-o-s-o-f-t)" width="32" height="32" src="https://cdn.simpleicons.org/macos/5C2D91/fff?viewbox=auto" />
+</a>
+<a href="https://gitlab.com/">
+  <img align="left" alt="Git" width="32" height="32" src="https://cdn.simpleicons.org/gitlab/F05032/fff?viewbox=auto" />
+</a>
+<a href="https://www.docker.com/">
+  <img align="left" alt="Docker" width="32" height="32" src="https://cdn.simpleicons.org/docker/2496ED/fff?viewbox=auto" />
+</a>
+<a href="https://www.jetbrains.com/rider/">
+  <img align="left" alt="Rider" width="32" height="32" src="https://cdn.simpleicons.org/rider/000000/fff?viewbox=auto" />
+</a>
+<a href="https://www.jetbrains.com/datagrip/">
+  <img align="left" alt="DataGrip" width="32" height="32" src="https://cdn.simpleicons.org/datagrip/000000/fff?viewbox=auto" />
+</a>
+<a href="https://unity.com/">
+  <img align="left" alt="Unity" width="32" height="32" src="https://cdn.simpleicons.org/unity/222222/fff?viewbox=auto" />
+</a>
 
-<br />
-<br />
+<br/>
+<br/>
 
 ---
 
